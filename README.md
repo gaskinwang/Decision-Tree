@@ -22,6 +22,7 @@ expression. For example, in the decision tree (see the **Figure)** the weight of
 S1 is higher than S2 and S5, and S2 and S5 are higher than S3. Therefore,
 observing the structure of the constructed tree, we can get the weight of
 different candidate factors, and then draw conclusions.
+![image](https://github.com/gaskinwang/Decision-Tree/blob/master/Decision%20tree/Schematic%20diagram.png)
 
 It should be noted that the accuracy is only fitting accuracy. However, because
 of the high accuracy, the results are also meaningful.
