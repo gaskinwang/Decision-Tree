@@ -23,5 +23,8 @@ observing the structure of the constructed tree, we can get the weight of
 different candidate factors, and then draw conclusions.
 ![image](https://github.com/gaskinwang/Decision-Tree/blob/master/Decision%20tree/Schematic%20diagram.png)
 
-It should be noted that the accuracy is only fitting accuracy. However, because
+It shoud be noted that the accuracy is only fitting accuracy. However, because
 of the high accuracy, the results are also meaningful.
+
+>   Run *classification_ooi.m* or *classification2_2vars.m* to construct trees
+>   using **data.xlsx** as input
