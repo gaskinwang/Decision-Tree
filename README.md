@@ -1,5 +1,4 @@
-# **Mine Arrangements of Promoter Motifs that Determines Gene Expression with
-Decision Tree Algorithm**
+# Mine Arrangements of Promoter Motifs that Determines Gene Expression with **Decision Tree** Algorithm
 
 The distribution characteristics of the promoter motifs correspond to one of two
 types of expression (0 for no/1 for yes). It can be regarded as a
